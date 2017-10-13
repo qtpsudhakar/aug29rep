@@ -6,6 +6,7 @@ public class Demo1 {
 		// TODO Auto-generated method stub
 		System.out.println("demo1 added");
 		System.out.println("new change1");
+		System.out.println("new change2");
 	}
 
 }
