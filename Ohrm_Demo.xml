@@ -1,0 +1,8 @@
+<suite name="demo">
+	<test name="regressionTest">
+		<classes>
+			<class name="com.tng.ohrm.OhrmAddEmployee" />
+		</classes>
+	</test>
+
+</suite>
